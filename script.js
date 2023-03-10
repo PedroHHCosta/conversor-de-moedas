@@ -3,7 +3,7 @@ var options = {
       type: 'line'
     },
     series: [{
-      name: 'sales',
+      name: 'valor médio',
       data: [2.19,3.09,3.37,3.30,3.79,3.88,5.05,4.93,4.99,5.18]
     }],
     stroke:{
